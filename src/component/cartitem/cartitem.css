@@ -1,0 +1,158 @@
+.cartitem{
+    width: 80%;
+    margin: 100px 150px;
+}
+.cartitem hr{
+    background: #e2e2e2;
+    height: 3px;
+    border: 0;
+}
+.cartitem-format-main{
+    display: flex;
+    grid-template-columns: 0.5fr 2fr 1fr 1fr 1fr;
+    align-items: center;
+    font-weight: 600;
+    padding: 0px px;
+    gap: 120px;
+    color: #454545;
+    font-size: 17px;
+    width: 80%;
+}
+.cartitem-format{
+    font-size: 17px;
+    font-weight: 500;
+}
+.cartitem-format cartitem-format-main p{
+    gap: 10px;
+}
+.cartitem-format cartitem-format-main {
+    width: 40%;
+    height: 40%;
+    gap: 10px;
+}
+.carticon-product-icon{
+    height: 62px;
+
+}
+.cartitems-remove-icon{
+    width: 15px;
+    margin: 0px 40px;
+    cursor: pointer;
+}
+.cartitem-quantity{
+    width: 200px;
+    height: 40px;
+    border: 2px solid #ebebeb;
+    background: #fff;
+    padding: 10px;
+}
+.cartitem-down{
+    display: flex;
+    margin: 100px 0px;
+}
+.cartitem-total{
+    flex: 1;
+    flex-direction: column;
+    margin: 200px;
+    gap: 40px;
+}
+.cartitem-total-item{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 0px;
+}
+.cartitem-total-item button{
+    width: 262px;
+    height: 70px;
+    outline: none;
+    gap: 40px;
+    border: none;
+    background: #ff5a5a;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.cartitem-promocode{
+    flex: 1;
+    font-size: 16px;
+    font-weight: 500;
+}
+.cartitem-promobox p{
+    color: #555;
+}
+.cartitem-promobox{
+    width: 504px;
+    margin-top: 15px;
+    padding-left:20px;
+    gap: 20px;
+    height: 58px;
+    background: #eaeaea;
+
+}
+.cartitem-promobox input{
+    border: none;
+    background: orangered;
+    outline: none;
+    font-size: 16px;
+    height: 50px;
+    width: 33px;
+}
+.cartitem-promobox button{
+    left: 50px;
+    
+    padding-left: 37Ppx;
+    background: orangered;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    height: 58px;
+    width: 170px;
+    padding-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
